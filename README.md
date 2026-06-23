@@ -4,8 +4,8 @@ Selected course projects related to systems programming, compilers, and concurre
 
 ## Projects
 
-### [SIC/XE Assembler](./sic-xe-assembler)
-Implemented an assembler for the SIC/XE architecture, including symbol table management, instruction encoding, and object code generation.
+### [SIC Assembler](./sic-xe-assembler)
+Implemented an assembler for the SIC architecture, including symbol table management, instruction encoding, and object code generation.
 
 ### [miniC Compiler](./minic-compiler)
 Implemented core components of a compiler for a miniC-like language, including lexical analysis, parsing, semantic analysis, and code generation.
