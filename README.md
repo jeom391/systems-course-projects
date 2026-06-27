@@ -26,3 +26,5 @@ The simulator manages three FIFO-based priority queues, each with its own time q
 - Compiler Construction
 - Concurrency and Synchronization
 - Low-level Debugging
+- Operating Systems
+- CPU Scheduling
