@@ -9,10 +9,15 @@ Implemented a two-pass SIC assembler in C, including symbol table management, li
 The project also documents a planned extension path toward SIC/XE features such as instruction formats, addressing modes, relocation records, and control sections.
 
 ### [miniC Compiler](./minic-compiler)
-Implemented core components of a compiler for a miniC-like language, including lexical analysis, parsing, semantic analysis, and code generation.
+Implemented a lexical analyzer for a subset of the miniC language using C.
 
 ### [Lock Implementation and Analysis](./lock-implementation-analysis)
 Implemented and analyzed synchronization mechanisms under concurrent execution scenarios.
+
+### [MLFQ Scheduler Simulation](./mlfq-scheduler-simulation)
+
+Implemented a Multi-Level Feedback Queue scheduler simulation in C.
+The simulator manages three FIFO-based priority queues, each with its own time quantum, and supports priority boosting, process arrival handling, voluntary CPU yielding during I/O, and final scheduling metric calculation.
 
 ## Topics
 
