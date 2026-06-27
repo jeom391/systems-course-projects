@@ -1,0 +1,5 @@
+PID	Turnaround Time	Response Time
+1	67		0
+2	65		5
+3	33		11
+Final time: 67
